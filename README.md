@@ -11,6 +11,7 @@ A Streamlit-based web application that extracts brand names from images using Op
 - User-friendly web interface
 
 ## Prerequisites
+![brand_name_with_texts](https://github.com/user-attachments/assets/86b96de1-42b6-4c73-a16a-d5aeff1f7905)
 
 Before running this application, ensure you have the following installed:
 
